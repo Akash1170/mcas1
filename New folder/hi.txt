@@ -1,0 +1,2 @@
+ git init
+Reinitialized existing Git repository in C:/Users/student/Desktop/akash mca/.git/
